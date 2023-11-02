@@ -70,7 +70,6 @@ seaborn==0.12.2
 six==1.16.0
 smmap==5.0.0
 SQLAlchemy==0.7.10
-sqlalchemy-migrate==0.11.0
 sqlparse==0.4.4
 streamlit==1.25.0
 tabula-py==2.7.0
